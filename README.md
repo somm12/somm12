@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=ffffff"/> <img src="https://img.shields.io/badge/thals8744@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=ffffff"/> <img src="https://img.shields.io/badge/thals8744@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/somin____an-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
