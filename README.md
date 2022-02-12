@@ -22,8 +22,14 @@ Here are some ideas to get you started:
 
 
 ### 🛠️ Skills 🛠️
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
 
 
+
+html #E34F26 HTML5
+css #1572B6 CSS3
+리눅스 #FCC624 Linux
+도커 #2496ED Docker
+장고 #092E20 Django
 
 
