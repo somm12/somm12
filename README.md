@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Somin An
+# Somin An&nbsp 
 
 <a href="https://www.notion.so/1-769ed2eaf82344b1971e0fe7136a859f" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a> <img src="https://img.shields.io/badge/thals8744@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/thals8744@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> <img src="https://img.shields.io/badge/somin____an-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>  
 
