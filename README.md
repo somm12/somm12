@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Somin An
+## Somin An
 <div align="center"
 <p><a href="https://www.notion.so/1-769ed2eaf82344b1971e0fe7136a859f" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a> <a><img src="https://img.shields.io/badge/sominan8744@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/thals8744@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></p>
 </div>
@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 ![Somin's GitHub stats](https://github-readme-stats.vercel.app/api?username=somm12&show_icons=true&theme=radical)
 
 </div>
+ 
+ <style type='text/css'>
+  [class*="name"] { font-weight:600; }
+</style>
