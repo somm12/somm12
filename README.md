@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<!-- <div align="center">
   <h1>Somin An</h1>
 <p> <a><img src="https://img.shields.io/badge/sominan8744@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/thals8744@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></p>
-</div>
+</div> -->
+<div align="center">
+<p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Somin%20An&fontSize=90&fontColor=#2d3436"/>
+  </p>
+  </div>
+  
 <br>
 <br>
 
